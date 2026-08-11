@@ -1,0 +1,216 @@
+/* ==========================================================================
+   Botones, badges y controles reutilizables
+   ========================================================================== */
+
+/* Botones */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 0.62rem 1.3rem;
+  border: 1px solid transparent;
+  border-radius: 999px;
+  font-family: var(--sans);
+  font-size: 0.95rem;
+  font-weight: 600;
+  line-height: 1;
+  cursor: pointer;
+  text-decoration: none;
+  transition: background 0.15s ease, border-color 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.btn:active {
+  transform: translateY(1px);
+}
+
+.btn-lg {
+  padding: 0.9rem 2rem;
+  font-size: 1.02rem;
+}
+
+/* CTA dorado de marca sobre fondos claros/oscuros */
+.btn-gold {
+  background: var(--gold);
+  color: #1b1710;
+}
+
+.btn-gold:hover {
+  background: var(--gold-dark);
+  color: #fffdf8;
+  text-decoration: none;
+}
+
+.btn-gold {
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.25) inset;
+}
+
+.btn-gold:hover {
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.2) inset;
+}
+
+/* Botón de WhatsApp */
+.btn-whatsapp {
+  background: var(--wa);
+  color: var(--wa-text);
+  border-color: rgba(0, 0, 0, 0.05);
+}
+
+.btn-whatsapp:hover {
+  background: #20bd5c;
+  color: var(--wa-text);
+  text-decoration: none;
+}
+
+/* Boton outline neutral */
+.btn-outline {
+  background: transparent;
+  border-color: var(--line);
+  color: var(--ink);
+}
+
+.btn-outline:hover {
+  border-color: var(--gold);
+  color: var(--gold-dark);
+  background: rgba(185, 138, 60, 0.06);
+  text-decoration: none;
+}
+
+/* Botón fantasma (texto) */
+.btn-ghost {
+  background: transparent;
+  border-color: transparent;
+  color: var(--gold-dark);
+  padding-inline: 0.5rem;
+}
+
+.btn-ghost:hover {
+  background: rgba(185, 138, 60, 0.08);
+  text-decoration: none;
+}
+
+/* Badges de estado */
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.22rem 0.6rem;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  white-space: nowrap;
+}
+
+.badge-lg {
+  padding: 0.4rem 0.9rem;
+  font-size: 0.85rem;
+}
+
+.badge-available {
+  background: rgba(23, 107, 50, 0.12);
+  color: var(--success);
+}
+
+.badge-soldout {
+  background: rgba(163, 58, 47, 0.10);
+  color: var(--danger);
+}
+
+.badge-neutral {
+  background: rgba(150, 112, 44, 0.12);
+  color: var(--gold-dark);
+}
+
+/* Pills de género (filtro) */
+.pill {
+  border: 1px solid var(--line);
+  background: var(--surface);
+  color: var(--ink-soft);
+  padding: 0.45rem 1.1rem;
+  border-radius: 999px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: border-color 0.15s ease, background 0.15s ease, color 0.15s ease;
+}
+
+.pill:hover {
+  border-color: var(--gold);
+  color: var(--gold-dark);
+}
+
+.pill[aria-pressed="true"] {
+  background: var(--ink);
+  border-color: var(--ink);
+  color: #f4efe4;
+}
+
+/* Chips de notas */
+.note-chip {
+  display: inline-block;
+  padding: 0.35rem 0.85rem;
+  margin: 0 0.4rem 0.4rem 0;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  font-size: 0.85rem;
+  color: var(--ink-soft);
+}
+
+/* ---------- Pedido (carrito) ---------- */
+
+/* Botón del header */
+.header-cart {
+  position: relative;
+  gap: 0.45rem;
+  padding: 0.5rem 0.9rem;
+  color: #f4efe4;
+  border-color: rgba(255, 255, 255, 0.2);
+}
+
+.header-cart:hover {
+  color: var(--gold);
+  border-color: var(--gold);
+  background: rgba(185, 138, 60, 0.08);
+}
+
+.cart-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 20px;
+  height: 20px;
+  padding: 0 0.4rem;
+  border-radius: 999px;
+  background: var(--gold);
+  color: #1b1710;
+  font-size: 0.78rem;
+  font-weight: 700;
+  line-height: 1;
+}
+
+/* Botón "Agregar al pedido" en tarjetas */
+.card-add {
+  margin-top: 0.55rem;
+  border-color: var(--gold);
+  color: var(--gold-dark);
+}
+
+.card-add:hover:not(:disabled) {
+  background: var(--gold);
+  border-color: var(--gold);
+  color: #1b1710;
+}
+
+.card-add:disabled {
+  cursor: default;
+}
+
+/* Estado "Agregado" (feedback breve) */
+.btn-added {
+  background: rgba(23, 107, 50, 0.1) !important;
+  border-color: var(--success) !important;
+  color: var(--success) !important;
+}

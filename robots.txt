@@ -1,0 +1,6 @@
+# Permite que todos los buscadores indexen el sitio.
+User-agent: *
+Allow: /
+
+# Actualizá la URL cuando tengas dominio propio.
+Sitemap: https://luxaroma.example.com/sitemap.xml

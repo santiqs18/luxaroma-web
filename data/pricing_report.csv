@@ -1,0 +1,611 @@
+id,nombre,marca,codigo,ml_avg,costo,costo_flete,precio_prev,precio_nuevo,variacion_ars,margen_pct,estado
+perfume-0001,Eter Flower,Armaf,84482,,59580,64346,90100,90100,0,40.0,objetivo
+perfume-0002,Eter Magical Oud,Armaf,84460,,59580,64346,90100,90100,0,40.0,objetivo
+perfume-0003,Eter Night,Armaf,84449,,59580,64346,90100,90100,0,40.0,objetivo
+perfume-0004,Eter Oasis,Armaf,84493,,59580,64346,90100,90100,0,40.0,objetivo
+perfume-0005,Eter Rose,Armaf,84438,,59580,64346,90100,90100,0,40.0,objetivo
+perfume-0006,Eter Star,Armaf,84450,,59580,64346,90100,90100,0,40.0,objetivo
+perfume-0007,Flavia Dolce Roma,Armaf,223837,,39720,42897,60100,60100,0,40.1,objetivo
+perfume-0008,Flavia Initial,Armaf,223804,,39720,42897,60100,60100,0,40.1,objetivo
+perfume-0009,Flavia Jade,Armaf,223770,,39720,42897,60100,60100,0,40.1,objetivo
+perfume-0010,Flavia Legende,Armaf,223780,,39720,42897,60100,60100,0,40.1,objetivo
+perfume-0011,Flavia Lyft,Armaf,234064,,39720,42897,60100,60100,0,40.1,objetivo
+perfume-0012,Flavia Opale Sombre,Armaf,223815,,39720,42897,60100,60100,0,40.1,objetivo
+perfume-0013,Flavia Rose&oud,Armaf,223791,,39720,42897,60100,60100,0,40.1,objetivo
+perfume-0014,Flavia Viva Roma,Armaf,223826,,39720,42897,60100,60100,0,40.1,objetivo
+perfume-0015,Flavia White Gold,Armaf,223860,,39720,42897,60100,60100,0,40.1,objetivo
+perfume-0016,Frsh Sure Shot,Armaf,968763,,38065,41110,57600,57600,0,40.1,objetivo
+perfume-0017,Hunter,Armaf,976852,,39720,42897,60100,60100,0,40.1,objetivo
+perfume-0018,Hunter Intense,Armaf,877550,,41375,44685,62600,62600,0,40.1,objetivo
+perfume-0019,Hunter Jungle,Armaf,123130,,41375,44685,62600,62600,0,40.1,objetivo
+perfume-0020,Hunter Killer,Armaf,123129,,41375,44685,62600,62600,0,40.1,objetivo
+perfume-0021,Infinity Gold,Armaf,198275,,66200,71496,100100,100100,0,40.0,objetivo
+perfume-0022,Infinity Silver,Armaf,198365,,66200,71496,100100,100100,0,40.0,objetivo
+perfume-0023,Island Bliss,Armaf,206109,,59580,64346,90100,90100,0,40.0,objetivo
+perfume-0024,Island Breeze,Armaf,219741,,66200,71496,100100,100100,0,40.0,objetivo
+perfume-0025,Ital.vivo,Armaf,846848,,38065,41110,57600,57600,0,40.1,objetivo
+perfume-0026,L' Intense,Armaf,29492,,54615,58984,82600,82600,0,40.0,objetivo
+perfume-0027,Le Parfait Panache,Armaf,241499,,52960,57196,80100,80100,0,40.0,objetivo
+perfume-0028,Legesi,Armaf,877571,,38065,41110,57600,57600,0,40.1,objetivo
+perfume-0029,Magnificent Jardin,Armaf,198286,,62890,67921,95100,95100,0,40.0,objetivo
+perfume-0030,Magnificent Pour,Armaf,931248,,44685,48259,67600,67600,0,40.1,objetivo
+perfume-0031,Match Point,Armaf,215805,,41375,44685,62600,62600,0,40.1,objetivo
+perfume-0032,Mignon Red,Armaf,877437,,38065,41110,57600,57600,0,40.1,objetivo
+perfume-0033,Mini Cdn,Armaf,101483,,12412,13404,18800,18800,0,40.2,objetivo
+perfume-0034,Mini Cdn 2pc X,Armaf,198300,,62890,67921,95100,95100,0,40.0,objetivo
+perfume-0035,Mini Cdn Iconic,Armaf,101428,,12412,13404,18800,18800,0,40.2,objetivo
+perfume-0036,Mini Cdn Imperiale,Armaf,101417,,12412,13404,18800,18800,0,40.2,objetivo
+perfume-0037,Mini Cdn Intense,Armaf,101494,,11585,12511,17550,17550,0,40.3,objetivo
+perfume-0038,Mini Cdn Sillage,Armaf,101439,,11585,12511,17550,17550,0,40.3,objetivo
+perfume-0039,Mini Cdn Untold,Armaf,101450,,12412,13404,18800,18800,0,40.2,objetivo
+perfume-0040,Mini Cdn Urban,Armaf,101507,,12412,13404,18800,18800,0,40.2,objetivo
+perfume-0041,Miss Attitude,Armaf,37346,,41375,44685,62600,62600,0,40.1,objetivo
+perfume-0042,Miss Catwalk,Armaf,37357,,41375,44685,62600,62600,0,40.1,objetivo
+perfume-0043,Miss Chic,Armaf,37368,,41375,44685,62600,62600,0,40.1,objetivo
+perfume-0044,Miss Dazzling,Armaf,37379,,41375,44685,62600,62600,0,40.1,objetivo
+perfume-0045,Miss Grandeur,Armaf,37380,,41375,44685,62600,62600,0,40.1,objetivo
+perfume-0046,Miss Magnifiq,Armaf,37403,,41375,44685,62600,62600,0,40.1,objetivo
+perfume-0047,Miss Mistique,Armaf,37414,,41375,44685,62600,62600,0,40.1,objetivo
+perfume-0048,Miss Voce Viva,Armaf,37436,,41375,44685,62600,62600,0,40.1,objetivo
+perfume-0049,Momento Fleur,Armaf,931292,,46340,50047,70100,70100,0,40.1,objetivo
+perfume-0050,Mosaic Opal Malaky L,Armaf,215759,,62890,67921,95100,95100,0,40.0,objetivo
+perfume-0051,Mosaic Topaz Malaky,Armaf,215760,,62890,67921,95100,95100,0,40.0,objetivo
+perfume-0052,Odyseey Aoud,Armaf,117323,,36410,39322,55100,55100,0,40.1,objetivo
+perfume-0053,Odyssey Aoud,Armaf,234670,,6620,7149,10050,10050,0,40.6,objetivo
+perfume-0054,Odyssey Aqua,Armaf,200720,,43030,46472,65100,65100,0,40.1,objetivo
+perfume-0055,Odyssey Ba Ha Mas,Armaf,215748,,46340,50047,70100,70100,0,40.1,objetivo
+perfume-0056,Odyssey Black Forest,Armaf,223703,,41375,44685,62600,62600,0,40.1,objetivo
+perfume-0057,Odyssey Candee,Armaf,234659,,6620,7149,10050,10050,0,40.6,objetivo
+perfume-0058,Odyssey Candee,Armaf,95418,,36410,39322,55100,55100,0,40.1,objetivo
+perfume-0059,Odyssey Chocolate Edit,Armaf,198376,,28118,30367,42550,42550,0,40.1,objetivo
+perfume-0060,Odyssey,Armaf,877426,,38065,41110,57600,57600,0,40.1,objetivo
+perfume-0061,Odyssey Go Mango,Armaf,215737,,43030,46472,65100,65100,0,40.1,objetivo
+perfume-0062,Odyssey,Armaf,234660,,6620,7149,10050,10050,0,40.6,objetivo
+perfume-0063,Odyssey Limoni,Armaf,103193,,36410,39322,55100,55100,0,40.1,objetivo
+perfume-0064,Odyssey Mandarin Sky,Armaf,103239,,39720,42897,60100,60100,0,40.1,objetivo
+perfume-0065,Odyssey Mandaryn Sky,Armaf,251366,,59580,64346,90100,90100,0,40.0,objetivo
+perfume-0066,Odyssey Marshmallow,Armaf,215647,,43030,46472,65100,65100,0,40.1,objetivo
+perfume-0067,Odyssey Mega,Armaf,200710,,36410,39322,55100,55100,0,40.1,objetivo
+perfume-0068,Odyssey Revolution,Armaf,223714,,36410,39322,55100,55100,0,40.1,objetivo
+perfume-0069,Odyssey Spectra,Armaf,198387,,36410,39322,55100,55100,0,40.1,objetivo
+perfume-0070,Odyssey Toffe Coffe,Armaf,234604,,52960,57196,80100,80100,0,40.0,objetivo
+perfume-0071,Odyssey Tyrant,Armaf,117299,,36410,39322,55100,55100,0,40.1,objetivo
+perfume-0072,Odyssey White,Armaf,206096,,36410,39322,55100,55100,0,40.1,objetivo
+perfume-0073,Odyssey Wild One,Armaf,117187,,36410,39322,55100,55100,0,40.1,objetivo
+perfume-0074,Orchestra Tempo Tune,Armaf,215770,,74475,80433,112650,112650,0,40.1,objetivo
+perfume-0075,Oros,Armaf,122936,,82750,89370,125150,125150,0,40.0,objetivo
+perfume-0076,Oros The Inventor,Armaf,122980,,135710,146566,205200,205200,0,40.0,objetivo
+perfume-0077,Private Key Dreams,Armaf,37324,,59580,64346,90100,90100,0,40.0,objetivo
+perfume-0078,Private Key Life,Armaf,37302,,59580,64346,90100,90100,0,40.0,objetivo
+perfume-0079,Private Key Love,Armaf,37313,,59580,64346,90100,90100,0,40.0,objetivo
+perfume-0080,Private Key Soul,Armaf,78182,,59580,64346,90100,90100,0,40.0,objetivo
+perfume-0081,Private Key Sucess,Armaf,37335,,59580,64346,90100,90100,0,40.0,objetivo
+perfume-0082,Profumi Art Acqua Mia,Armaf,122295,,79440,85795,120150,120150,0,40.0,objetivo
+perfume-0083,Profumi Art Voglie,Armaf,84540,,79440,85795,120150,120150,0,40.0,objetivo
+perfume-0084,Profumi Art Legni,Armaf,84539,,79440,85795,120150,120150,0,40.0,objetivo
+perfume-0085,Profumi Art Belin,Armaf,84517,,79440,85795,120150,120150,0,40.0,objetivo
+perfume-0086,Profumi Art Per Me,Armaf,84561,,79440,85795,120150,120150,0,40.0,objetivo
+perfume-0087,Profumi D'art E Tanta,Armaf,84550,,79440,85795,120150,120150,0,40.0,objetivo
+perfume-0088,Profumi D'art Acqua Tua,Armaf,84528,,79440,85795,120150,120150,0,40.0,objetivo
+perfume-0089,Red Sky,Armaf,198297,,49650,53622,75100,75100,0,40.1,objetivo
+perfume-0090,Scentasy Noir,Armaf,219752,,62890,67921,95100,95100,0,40.0,objetivo
+perfume-0091,Shk I,Armaf,206153,,49650,53622,75100,75100,0,40.1,objetivo
+perfume-0092,Shk Ii,Armaf,206164,,49650,53622,75100,75100,0,40.1,objetivo
+perfume-0093,Shk Iii,Armaf,223736,,49650,53622,75100,75100,0,40.1,objetivo
+perfume-0094,Shk Iv,Armaf,223725,,49650,53622,75100,75100,0,40.1,objetivo
+perfume-0095,Tag Colorata,Armaf,217908,,39720,42897,60100,60100,0,40.1,objetivo
+perfume-0096,Tag di Terra,Armaf,217919,,39720,42897,60100,60100,0,40.1,objetivo
+perfume-0097,Tag Nero,Armaf,122712,,39720,42897,60100,60100,0,40.1,objetivo
+perfume-0098,Tag Rosso,Armaf,122688,,41375,44685,62600,62600,0,40.1,objetivo
+perfume-0099,The Pride Admiral,Armaf,122969,,49650,53622,75100,75100,0,40.1,objetivo
+perfume-0100,The Pride Of Rouge,Armaf,976863,,41375,44685,62600,62600,0,40.1,objetivo
+perfume-0101,The Pride Of,Armaf,877640,,49650,53622,75100,75100,0,40.1,objetivo
+perfume-0102,The Pride Rose Oud,Armaf,123107,,49650,53622,75100,75100,0,40.1,objetivo
+perfume-0103,Tres Altin,Armaf,865691,,38065,41110,57600,57600,0,40.1,objetivo
+perfume-0104,Uniq Effects,Armaf,198398,,43030,46472,65100,65100,0,40.1,objetivo
+perfume-0105,Uniq Oud Forever,Armaf,198400,,43030,46472,65100,65100,0,40.1,objetivo
+perfume-0106,Vitesse Carbon,Armaf,877380,,38065,41110,57600,57600,0,40.1,objetivo
+perfume-0107,Yumyum,Armaf,200911,,59580,64346,90100,90100,0,40.0,objetivo
+perfume-0108,Basi Uniform Build Your Self,Armand,44243,,36410,39322,55100,55100,0,40.1,objetivo
+perfume-0109,Basi Uniform Don't Look,Armand,44265,,36410,39322,55100,55100,0,40.1,objetivo
+perfume-0110,Acqua di Gio Profondo,Armani,240220,,135710,146566,205200,205200,0,40.0,objetivo
+perfume-0111,Acqua di Gio Absolu,Armani,834979,,163845,176952,247750,247750,0,40.0,objetivo
+perfume-0112,Acqua di Gio Absolu,Armani,834980,,102610,110818,155150,155150,0,40.0,objetivo
+perfume-0113,Acqua di Gio,Armani,992097,,152260,164440,230250,230250,0,40.0,objetivo
+perfume-0114,Acqua di Gio,Armani,992100,,109213,117950,165150,165150,0,40.0,objetivo
+perfume-0115,Acqua di Gio,Armani,605459,,91025,98307,137650,137650,0,40.0,objetivo
+perfume-0116,Acqua di Gio,Armani,192810,,157225,169803,237750,237750,0,40.0,objetivo
+perfume-0117,Acqua di Gio,Armani,10392,,79440,85795,120150,120150,0,40.0,objetivo
+perfume-0118,Acqua di Gio Profondo,Armani,943150,,132400,142992,200200,200200,0,40.0,objetivo
+perfume-0119,Acqua di Gio Profondo,Armani,811638,,173775,187677,262750,262750,0,40.0,objetivo
+perfume-0120,Acqua di Gio Profumo,Armani,953072,,175430,189464,265300,265300,0,40.0,objetivo
+perfume-0121,Acqua di Gio Profumo,Armani,715136,,109230,117968,165200,165200,0,40.0,objetivo
+perfume-0122,Acqua di Gioia,Armani,701827,,91025,98307,137650,137650,0,40.0,objetivo
+perfume-0123,Air di Gioia,Armani,920538,,115850,125118,175200,175200,0,40.0,objetivo
+perfume-0124,Code Absolu,Armani,17502,,99300,107244,150150,150150,0,40.0,objetivo
+perfume-0125,Code Absolu,Armani,885592,,124125,134055,187700,187700,0,40.0,objetivo
+perfume-0126,Code,Armani,573766,,92680,100094,140150,140150,0,40.0,objetivo
+perfume-0127,Code,Armani,36883,,124125,134055,187700,187700,0,40.0,objetivo
+perfume-0128,Code,Armani,44164,,119160,128692,180200,180200,0,40.0,objetivo
+perfume-0129,Code,Armani,948807,,162190,175165,245250,245250,0,40.0,objetivo
+perfume-0130,Code Refill,Armani,117277,,190325,205551,287800,287800,0,40.0,objetivo
+perfume-0131,Code,Armani,989150,,119160,128692,180200,180200,0,40.0,objetivo
+perfume-0132,Code Profumo,Armani,746331,,122470,132267,185200,185200,0,40.0,objetivo
+perfume-0133,Eau de Nuit,Armani,654788,,162190,175165,245250,245250,0,40.0,objetivo
+perfume-0134,Emporio Diamonds,Armani,58472,,86060,92944,130150,130150,0,40.0,objetivo
+perfume-0135,Emporio,Armani,123263,,82750,89370,125150,125150,0,40.0,objetivo
+perfume-0136,My Way,Armani,20035,,82750,89370,125150,125150,0,40.0,objetivo
+perfume-0137,My Way,Armani,943161,,168810,182314,255250,255250,0,40.0,objetivo
+perfume-0138,My Way Intense,Armani,63266,,178740,193039,270300,270300,0,40.0,objetivo
+perfume-0139,Prive Oud Royal,Armani,971803,,496500,536220,750750,750750,0,40.0,objetivo
+perfume-0140,Si,Armani,687908,,124125,134055,187700,187700,0,40.0,objetivo
+perfume-0141,Si Intense,Armani,975470,,170465,184102,257750,257750,0,40.0,objetivo
+perfume-0142,Si Intense,Armani,766792,,92680,100094,140150,140150,0,40.0,objetivo
+perfume-0143,Si Passione Intense,Armani,817813,,112540,121543,170200,170200,0,40.0,objetivo
+perfume-0144,Si Passione Intense (refillable),Armani,204476,,190325,205551,287800,287800,0,40.0,objetivo
+perfume-0145,Si Passione Intense (refilable),Armani,204487,,162190,175165,245250,245250,0,40.0,objetivo
+perfume-0146,Si Passione Red Musk,Armani,254516,,198600,214488,300300,300300,0,40.0,objetivo
+perfume-0147,Stronger With You,Armani,790385,,112540,121543,170200,170200,0,40.0,objetivo
+perfume-0148,Verde,Armani,605448,,115850,125118,175200,175200,0,40.0,objetivo
+perfume-0149,You Because,Armani,790396,,115850,125118,175200,175200,0,40.0,objetivo
+perfume-0150,You Because,Armani,790410,,92680,100094,140150,140150,0,40.0,objetivo
+perfume-0151,You In Love,Armani,887853,,124125,134055,187700,187700,0,40.0,objetivo
+perfume-0152,You Stronger Absolutely,Armani,954714,,162190,175165,245250,245250,0,40.0,objetivo
+perfume-0153,You Stronger Intensely With,Armani,933441,,135710,146566,205200,205200,0,40.0,objetivo
+perfume-0154,Black Opulent,Arqus,934868,,19860,21448,30050,30050,0,40.1,objetivo
+perfume-0155,Black Scent,Arqus,934778,,16533,17855,25000,25000,0,40.0,objetivo
+perfume-0156,Delight Woody,Arqus,934958,,19860,21448,30050,30050,0,40.1,objetivo
+perfume-0157,Eleganza,Arqus,934969,,18205,19661,27550,27550,0,40.1,objetivo
+perfume-0158,La Bella,Arqus,934903,,16550,17874,25050,25050,0,40.1,objetivo
+perfume-0159,Magnate,Arqus,934914,,23170,25023,35050,35050,0,40.1,objetivo
+perfume-0160,Midnight Rosa,Arqus,934925,,19860,21448,30050,30050,0,40.1,objetivo
+perfume-0161,Party,Arqus,953612,,18205,19661,27550,27550,0,40.1,objetivo
+perfume-0162,Victor,Arqus,934980,,18205,19661,27550,27550,0,40.1,objetivo
+perfume-0163,Voyage,Arqus,933913,,18205,19661,27550,27550,0,40.1,objetivo
+perfume-0164,ARROGANCE FEMME EDP F 100ML,Arrogance,96788,,49650,53622,75100,75100,0,40.1,objetivo
+perfume-0165,ARROGANCE FEMME EDT 100ML,Arrogance,978540,,46340,50047,70100,70100,0,40.1,objetivo
+perfume-0166,Passion,Arrogance,37111,,46340,50047,70100,70100,0,40.1,objetivo
+perfume-0167,Madera Black,Arsenal,40430,,31445,33960,47550,47550,0,40.0,objetivo
+perfume-0168,Madera Blue,Arsenal,164325,,31445,33960,47550,47550,0,40.0,objetivo
+perfume-0169,Madera Cinza,Arsenal,18558,,33100,35748,50050,50050,0,40.0,objetivo
+perfume-0170,Andaleeb,Asdaaf,206759,,18205,19661,27550,27550,0,40.1,objetivo
+perfume-0171,Ameer,Assala,108918,,36393,39304,55050,55050,0,40.1,objetivo
+perfume-0172,Fakhama,Assala,108929,,46340,50047,70100,70100,0,40.1,objetivo
+perfume-0173,Prime Royal Arabian Oud,Assala,101832,,61218,66115,92600,92600,0,40.1,objetivo
+perfume-0174,Prime Divine,Assala,217818,,59580,64346,90100,90100,0,40.0,objetivo
+perfume-0175,Prime,Assala,217829,,62890,67921,95100,95100,0,40.0,objetivo
+perfume-0176,Prime Hayati,Assala,217873,,56270,60771,85100,85100,0,40.0,objetivo
+perfume-0177,Prime Malik Siba,Assala,217895,,46340,50047,70100,70100,0,40.1,objetivo
+perfume-0178,Prime Nasma Candy,Assala,217840,,44668,48241,67550,67550,0,40.0,objetivo
+perfume-0179,Prime Nasma,Assala,199063,,49650,53622,75100,75100,0,40.1,objetivo
+perfume-0180,Prime Nasma White Blossom,Assala,217851,,46323,50028,70050,70050,0,40.0,objetivo
+perfume-0181,Prime Royal Rose,Assala,101685,,69510,75070,105100,105100,0,40.0,objetivo
+perfume-0182,Prime Royal Xo,Assala,101709,,69510,75070,105100,105100,0,40.0,objetivo
+perfume-0183,Cherry In The Woods,Aurora,238999,,62890,67921,95100,95100,0,40.0,objetivo
+perfume-0184,Deciduous Spring,Aurora,238955,,57925,62559,87600,87600,0,40.0,objetivo
+perfume-0185,Habanera Pink,Aurora,240689,,52960,57196,80100,80100,0,40.0,objetivo
+perfume-0186,Lord Sport,Aurora,238922,,41375,44685,62600,62600,0,40.1,objetivo
+perfume-0187,Olibanum,Aurora,243907,,46340,50047,70100,70100,0,40.1,objetivo
+perfume-0188,Pharaoh,Aurora,238911,,56270,60771,85100,85100,0,40.0,objetivo
+perfume-0189,Miracle Curls Leave In,Aussie,951575,,8258,8918,12500,12500,0,40.2,objetivo
+perfume-0190,Miss Dona,Avec,114274,,14895,16086,22550,22550,0,40.2,objetivo
+perfume-0191,Black Caviar,Axis,934295,,34755,37535,52550,52550,0,40.0,objetivo
+perfume-0192,Blooming,Axis,67900,,39720,42897,60100,60100,0,40.1,objetivo
+perfume-0193,Elegant Grey,Axis,67911,,39720,42897,60100,60100,0,40.1,objetivo
+perfume-0194,Midnight,Axis,67898,,36410,39322,55100,55100,0,40.1,objetivo
+perfume-0195,Signature,Axis,983569,,33100,35748,50050,50050,0,40.0,objetivo
+perfume-0196,Winner,Axis,58002,,34755,37535,52550,52550,0,40.0,objetivo
+perfume-0197,Chrome Aqua,Azzaro,949863,,43013,46454,65050,65050,0,40.0,objetivo
+perfume-0198,Chrome Azure,Azzaro,200169,,59580,64346,90100,90100,0,40.0,objetivo
+perfume-0199,Chrome,Azzaro,956839,,66183,71477,100100,100100,0,40.0,objetivo
+perfume-0200,Chrome,Azzaro,52242,,56270,60771,85100,85100,0,40.0,objetivo
+perfume-0201,Chrome,Azzaro,957761,,119160,128692,180200,180200,0,40.0,objetivo
+perfume-0202,Chrome,Azzaro,144468,,34755,37535,52550,52550,0,40.0,objetivo
+perfume-0203,Chrome Extreme,Azzaro,941293,,86060,92944,130150,130150,0,40.0,objetivo
+perfume-0204,Chrome Intense,Azzaro,878416,,62890,67921,95100,95100,0,40.0,objetivo
+perfume-0205,Chrome Intense,Azzaro,873130,,46340,50047,70100,70100,0,40.1,objetivo
+perfume-0206,Chrome Legend,Azzaro,565352,,49650,53622,75100,75100,0,40.1,objetivo
+perfume-0207,Chrome Sport,Azzaro,659962,,59580,64346,90100,90100,0,40.0,objetivo
+perfume-0208,Chrome United,Azzaro,677064,,46340,50047,70100,70100,0,40.1,objetivo
+perfume-0209,Intense,Azzaro,20911,,52960,57196,80100,80100,0,40.0,objetivo
+perfume-0210,AZZARO EDT M 100ML,Azzaro,886268,,41375,44685,62600,62600,0,40.1,objetivo
+perfume-0211,AZZARO EDT M 200ML,Azzaro,903360,,69510,75070,105100,105100,0,40.0,objetivo
+perfume-0212,AZZARO EDT M 30ML,Azzaro,196341,,26480,28598,40050,40050,0,40.0,objetivo
+perfume-0213,(recargable),Azzaro,592319,,26480,28598,40050,40050,0,40.0,objetivo
+perfume-0214,AZZARO EDT M 50ML,Azzaro,3520,,31445,33960,47550,47550,0,40.0,objetivo
+perfume-0215,AZZARO ELIXIR EDT M 100ML,Azzaro,578782,,52960,57196,80100,80100,0,40.0,objetivo
+perfume-0216,Night Time,Azzaro,707372,,44685,48259,67600,67600,0,40.1,objetivo
+perfume-0217,Now Mas,Azzaro,163570,,29790,32173,45050,45050,0,40.0,objetivo
+perfume-0218,Pour Elle,Azzaro,219168,,57925,62559,87600,87600,0,40.0,objetivo
+perfume-0219,Silver Black,Azzaro,745824,,52960,57196,80100,80100,0,40.0,objetivo
+perfume-0220,Sport,Azzaro,948324,,38065,41110,57600,57600,0,40.1,objetivo
+perfume-0221,The Most Wanted,Azzaro,970543,,107575,116181,162700,162700,0,40.0,objetivo
+perfume-0222,The Most Wanted,Azzaro,95866,,115833,125099,175150,175150,0,40.0,objetivo
+perfume-0223,The Most Wanted Intense,Azzaro,970554,,129090,139417,195200,195200,0,40.0,objetivo
+perfume-0224,Twin,Azzaro,595792,,52960,57196,80100,80100,0,40.0,objetivo
+perfume-0225,Visit,Azzaro,902235,,54615,58984,82600,82600,0,40.0,objetivo
+perfume-0226,Wanted By Night,Azzaro,900962,,122470,132267,185200,185200,0,40.0,objetivo
+perfume-0227,Wanted By Night,Azzaro,828387,,72820,78645,110150,110150,0,40.1,objetivo
+perfume-0228,Wanted,Azzaro,39607,,74475,80433,112650,112650,0,40.1,objetivo
+perfume-0229,Wanted,Azzaro,750124,,107575,116181,162700,162700,0,40.0,objetivo
+perfume-0230,Wanted,Azzaro,823619,,140675,151929,212750,212750,0,40.0,objetivo
+perfume-0231,Wanted Forever,Azzaro,201541,,127418,137611,192700,192700,0,40.0,objetivo
+perfume-0232,Wanted Girl,Azzaro,898192,,107575,116181,162700,162700,0,40.0,objetivo
+perfume-0233,Wanted Girl,Azzaro,915586,,99300,107244,150150,150150,0,40.0,objetivo
+perfume-0234,Wanted Girl Night,Azzaro,7477,,82750,89370,125150,125150,0,40.0,objetivo
+perfume-0235,Wanted Girl Tonic,Azzaro,18580,,34755,37535,52550,52550,0,40.0,objetivo
+perfume-0236,Wanted Girl Tonic,Azzaro,952453,,66200,71496,100100,100100,0,40.0,objetivo
+perfume-0237,Wanted Man Tonic,Azzaro,952464,,69510,75070,105100,105100,0,40.0,objetivo
+perfume-0238,Crema Solar Sport Spf50,Babaria,16680,,19843,21430,30050,30050,0,40.2,objetivo
+perfume-0239,Baby,Tous,911280,,57925,62559,87600,87600,0,40.0,objetivo
+perfume-0240,Ambre Fraiche,Baldessarini,999409,,49650,53622,75100,75100,0,40.1,objetivo
+perfume-0241,Black,Baldessarini,999410,,49650,53622,75100,75100,0,40.1,objetivo
+perfume-0242,BALDESSARINI M EDC 75ML,Baldessarini,890790,,49650,53622,75100,75100,0,40.1,objetivo
+perfume-0243,Nautic Spirit,Baldessarini,999420,,44685,48259,67600,67600,0,40.1,objetivo
+perfume-0244,Flora Botanica,Balenciaga,752798,,145640,157291,220250,220250,0,40.0,objetivo
+perfume-0245,Flora Botanica,Balenciaga,22294,,69510,75070,105100,105100,0,40.0,objetivo
+perfume-0246,Paris,Balenciaga,772666,,115850,125118,175200,175200,0,40.0,objetivo
+perfume-0247,Repblic Icom Dark Cherry&amber,Banana,913338,,49633,53603,75050,75050,0,40.0,objetivo
+perfume-0248,BANANA REPUBLIC  EDT  M 100ML,Banana Republic,868189,,21498,23217,32550,32550,0,40.2,objetivo
+perfume-0249,Alabaster,Banana Republic,868145,,24808,26792,37550,37550,0,40.2,objetivo
+perfume-0250,Ñ,Banana Republic,868167,,21498,23217,32550,32550,0,40.2,objetivo
+perfume-0251,BANANA REPUBLIC EDT M 100ML,Banana Republic,868178,,29790,32173,45050,45050,0,40.0,objetivo
+perfume-0252,BANANA REPUBLIC EDT M 125ML,Banana Republic,868156,,11568,12493,17500,17500,0,40.1,objetivo
+perfume-0253,Gardenia & Cardamon,Banana Republic,913305,,72820,78645,110150,110150,0,40.1,objetivo
+perfume-0254,Midnight Hour,Banana Republic,994910,,49650,53622,75100,75100,0,40.1,objetivo
+perfume-0255,Peony & Peppercorn,Banana Republic,913316,,49633,53603,75050,75050,0,40.0,objetivo
+perfume-0256,Tobacco&tonka Bean,Banana Republic,913327,,72820,78645,110150,110150,0,40.1,objetivo
+perfume-0257,Tuberdose Overdose,Banana Republic,994896,,72820,78645,110150,110150,0,40.1,objetivo
+perfume-0258,Velvet Pomegranate,Banana Republic,994909,,72820,78645,110150,110150,0,40.1,objetivo
+perfume-0259,Walnut,Banana Republic,868112,,24808,26792,37550,37550,0,40.2,objetivo
+perfume-0260,Spf50 170gr,Banana.advance.prot.sport,968124,,18205,19661,27550,27550,0,40.1,objetivo
+perfume-0261,Her Secret Flame,Banderas,39427,,28135,30385,42550,42550,0,40.0,objetivo
+perfume-0262,King Of Seduction,Banderas,918095,,34755,37535,52550,52550,0,40.0,objetivo
+perfume-0263,Black Seduction,Banderas,95934,,24825,26811,37550,37550,0,40.1,objetivo
+perfume-0264,Black Seduction,Banderas,922887,,28135,30385,42550,42550,0,40.0,objetivo
+perfume-0265,Black Seduction,Banderas,915149,,23170,25023,35050,35050,0,40.1,objetivo
+perfume-0266,Blue Seduction,Banderas,589268,,33100,35748,50050,50050,0,40.0,objetivo
+perfume-0267,Blue Seduction,Banderas,163548,,21515,23236,32550,32550,0,40.1,objetivo
+perfume-0268,Blue Seduction,Banderas,770700,,26480,28598,40050,40050,0,40.0,objetivo
+perfume-0269,Blue Seduction,Banderas,203172,,26480,28598,40050,40050,0,40.0,objetivo
+perfume-0270,Diavolo,Banderas,935017,,18205,19661,27550,27550,0,40.1,objetivo
+perfume-0271,Diavolo,Banderas,579740,,26480,28598,40050,40050,0,40.0,objetivo
+perfume-0272,Diavolo,Banderas,2800,,16550,17874,25050,25050,0,40.1,objetivo
+perfume-0273,Her Golden Secret,Banderas,673128,,23170,25023,35050,35050,0,40.1,objetivo
+perfume-0274,Her Secret Desire,Banderas,907565,,19860,21448,30050,30050,0,40.1,objetivo
+perfume-0275,Her Secret Desire,Banderas,897327,,26480,28598,40050,40050,0,40.0,objetivo
+perfume-0276,Her Secret Temptation,Banderas,783613,,21515,23236,32550,32550,0,40.1,objetivo
+perfume-0277,Her Secret Temptation,Banderas,897316,,28135,30385,42550,42550,0,40.0,objetivo
+perfume-0278,King Of Absolute,Banderas,744777,,34755,37535,52550,52550,0,40.0,objetivo
+perfume-0279,King Of Seduction,Banderas,907600,,24825,26811,37550,37550,0,40.1,objetivo
+perfume-0280,King Of Seduction,Banderas,701434,,19860,21448,30050,30050,0,40.1,objetivo
+perfume-0281,Mediterraneo,Banderas,917825,,18205,19661,27550,27550,0,40.1,objetivo
+perfume-0282,Mediterraneo,Banderas,579761,,24825,26811,37550,37550,0,40.1,objetivo
+perfume-0283,Mediterraneo,Banderas,58507,,13240,14299,20050,20050,0,40.2,objetivo
+perfume-0284,Power Of Seduction,Banderas,839536,,26480,28598,40050,40050,0,40.0,objetivo
+perfume-0285,Power Of Seduction,Banderas,839558,,19860,21448,30050,30050,0,40.1,objetivo
+perfume-0286,Queen Of Seduction,Banderas,744744,,21515,23236,32550,32550,0,40.1,objetivo
+perfume-0287,Queen Of Seduction,Banderas,922876,,26480,28598,40050,40050,0,40.0,objetivo
+perfume-0288,Queen Of Seduction Lively,Banderas,953498,,29790,32173,45050,45050,0,40.0,objetivo
+perfume-0289,Queen Of Seduction Lively Muse,Banderas,958280,,21515,23236,32550,32550,0,40.1,objetivo
+perfume-0290,Temptation The Secret,Banderas,783635,,21515,23236,32550,32550,0,40.1,objetivo
+perfume-0291,The Golden Secret,Banderas,589325,,28135,30385,42550,42550,0,40.0,objetivo
+perfume-0292,The Golden Secret,Banderas,905787,,36410,39322,55100,55100,0,40.1,objetivo
+perfume-0293,The Icon,Banderas,998004,,33100,35748,50050,50050,0,40.0,objetivo
+perfume-0294,The Icon,Banderas,26781,,28135,30385,42550,42550,0,40.0,objetivo
+perfume-0295,The Secret,Banderas,929378,,26480,28598,40050,40050,0,40.0,objetivo
+perfume-0296,The Secret,Banderas,712693,,33100,35748,50050,50050,0,40.0,objetivo
+perfume-0297,The Secret,Banderas,196453,,21515,23236,32550,32550,0,40.1,objetivo
+perfume-0298,The Secret Flame,Banderas,39438,,28135,30385,42550,42550,0,40.0,objetivo
+perfume-0299,The Secret Gol,Banderas,922898,,21515,23236,32550,32550,0,40.1,objetivo
+perfume-0300,The Secret Temptation,Banderas,783624,,26480,28598,40050,40050,0,40.0,objetivo
+perfume-0301,& Body Hand Soap Eucalyptus,Bath,990780,,11568,12493,17500,17500,0,40.1,objetivo
+perfume-0302,Moisture Kick Shamp.,Bc,79510,,15722,16979,23800,23800,0,40.2,objetivo
+perfume-0303,Repair Rescue Sham. Gr,Bc,728825,,14895,16086,22550,22550,0,40.2,objetivo
+perfume-0304,Ambre Safrano,Bdk,33252,,430300,464724,650650,650650,0,40.0,objetivo
+perfume-0305,Citrus Riviera,Bdk,10056,,339275,366417,513000,513000,0,40.0,objetivo
+perfume-0306,Creme de Cuir,Bdk,10045,,355825,384291,538050,538050,0,40.0,objetivo
+perfume-0307,French Bouquet,Bdk,10078,,405475,437913,613100,613100,0,40.0,objetivo
+perfume-0308,Gris Charnel,Bdk,9995,,364100,393228,550550,550550,0,40.0,objetivo
+perfume-0309,Nuit de Sable,Bdk,33230,,339275,366417,513000,513000,0,40.0,objetivo
+perfume-0310,Oud Abramad,Bdk,10023,,355825,384291,538050,538050,0,40.0,objetivo
+perfume-0311,Paris Bouquet de Hongrie,Bdk,9951,,314450,339606,475450,475450,0,40.0,objetivo
+perfume-0312,Paris Gris Charnel,Bdk,10001,,463400,500472,700700,700700,0,40.0,objetivo
+perfume-0313,Paris Rouge Smoking,Bdk,9984,,364100,393228,550550,550550,0,40.0,objetivo
+perfume-0314,Pas Ce Soir,Bdk,9973,,314450,339606,475450,475450,0,40.0,objetivo
+perfume-0315,Sel D'argent,Bdk,33241,,339275,366417,513000,513000,0,40.0,objetivo
+perfume-0316,Tabac Rose,Bdk,10067,,405475,437913,613100,613100,0,40.0,objetivo
+perfume-0317,Tubereuse Imepriale,Bdk,10034,,355825,384291,538050,538050,0,40.0,objetivo
+perfume-0318,Velvet Tonka,Bdk,33219,,380650,411102,575550,575550,0,40.0,objetivo
+perfume-0319,Villa Neroli,Bdk,33220,,339275,366417,513000,513000,0,40.0,objetivo
+perfume-0320,Wood Jasmin,Bdk,10012,,355825,384291,538050,538050,0,40.0,objetivo
+perfume-0321,Alley,Beautik,970172,,21515,23236,32550,32550,0,40.1,objetivo
+perfume-0322,Artigiano,Beautik,104050,,28135,30385,42550,42550,0,40.0,objetivo
+perfume-0323,Chic,Beautik,104049,,28135,30385,42550,42550,0,40.0,objetivo
+perfume-0324,Erotissima,Beautik,917915,,29790,32173,45050,45050,0,40.0,objetivo
+perfume-0325,Le Bleu,Beautik,878583,,18188,19643,27550,27550,0,40.3,objetivo
+perfume-0326,London Rebel Ink,Beautik,970207,,28135,30385,42550,42550,0,40.0,objetivo
+perfume-0327,Morning Bloom,Beautik,970183,,21515,23236,32550,32550,0,40.1,objetivo
+perfume-0328,Oceana,Beautik,878528,,18188,19643,27550,27550,0,40.3,objetivo
+perfume-0329,Ombre,Beautik,878550,,18188,19643,27550,27550,0,40.3,objetivo
+perfume-0330,United Dreams Aim High,Benetton,763139,,33100,35748,50050,50050,0,40.0,objetivo
+perfume-0331,Colors For Green,Benetton,6285,,31445,33960,47550,47550,0,40.0,objetivo
+perfume-0332,Colors Black,Benetton,923700,,31445,33960,47550,47550,0,40.0,objetivo
+perfume-0333,Colors Black Intenso,Benetton,967235,,31445,33960,47550,47550,0,40.0,objetivo
+perfume-0334,Colors Blue,Benetton,786515,,31445,33960,47550,47550,0,40.0,objetivo
+perfume-0335,Colors Blue,Benetton,887180,,29790,32173,45050,45050,0,40.0,objetivo
+perfume-0336,Colors Blue,Benetton,917768,,33100,35748,50050,50050,0,40.0,objetivo
+perfume-0337,Colors Blue,Benetton,887190,,23170,25023,35050,35050,0,40.1,objetivo
+perfume-0338,Colors Forever Green,Benetton,6309,,31445,33960,47550,47550,0,40.0,objetivo
+perfume-0339,Colors Green Cactus,Benetton,31105,,29790,32173,45050,45050,0,40.0,objetivo
+perfume-0340,Colors Green Cactus,Benetton,31092,,29790,32173,45050,45050,0,40.0,objetivo
+perfume-0341,Colors Green,Benetton,887168,,29790,32173,45050,45050,0,40.0,objetivo
+perfume-0342,Colors Green,Benetton,917779,,34755,37535,52550,52550,0,40.0,objetivo
+perfume-0343,Colors Green,Benetton,887179,,24825,26811,37550,37550,0,40.1,objetivo
+perfume-0344,Colors Holo,Benetton,940786,,31445,33960,47550,47550,0,40.0,objetivo
+perfume-0345,Colors Holo,Benetton,940797,,31445,33960,47550,47550,0,40.0,objetivo
+perfume-0346,Colors Live,Benetton,952230,,31445,33960,47550,47550,0,40.0,objetivo
+perfume-0347,Colors Love,Benetton,952229,,31445,33960,47550,47550,0,40.0,objetivo
+perfume-0348,Colors Pink,Benetton,786537,,26480,28598,40050,40050,0,40.0,objetivo
+perfume-0349,Colors Pink,Benetton,927848,,31445,33960,47550,47550,0,40.0,objetivo
+perfume-0350,Colors Purple,Benetton,786559,,26480,28598,40050,40050,0,40.0,objetivo
+perfume-0351,Colors Purple,Benetton,786560,,31445,33960,47550,47550,0,40.0,objetivo
+perfume-0352,Colors Rose,Benetton,886370,,24825,26811,37550,37550,0,40.1,objetivo
+perfume-0353,Colors Rose,Benetton,886380,,36410,39322,55100,55100,0,40.1,objetivo
+perfume-0354,Colors Rose Intenso,Benetton,967202,,24825,26811,37550,37550,0,40.1,objetivo
+perfume-0355,Colors Rose Intenso,Benetton,967213,,36410,39322,55100,55100,0,40.1,objetivo
+perfume-0356,Colors Tribe,Benetton,31116,,33100,35748,50050,50050,0,40.0,objetivo
+perfume-0357,Colors Tribe Play,Benetton,225053,,33100,35748,50050,50050,0,40.0,objetivo
+perfume-0358,Colors Unlimited,Benetton,254931,,36410,39322,55100,55100,0,40.1,objetivo
+perfume-0359,Colors Unlimited,Benetton,254920,,36410,39322,55100,55100,0,40.1,objetivo
+perfume-0360,Live Free,Benetton,696740,,19860,21448,30050,30050,0,40.1,objetivo
+perfume-0361,Sisterland Blue,Benetton,628,,33100,35748,50050,50050,0,40.0,objetivo
+perfume-0362,Sisterland Golden Vanilla,Benetton,82278,,33100,35748,50050,50050,0,40.0,objetivo
+perfume-0363,Sisterland Green,Benetton,949380,,33100,35748,50050,50050,0,40.0,objetivo
+perfume-0364,Sisterland Pink,Benetton,949369,,33100,35748,50050,50050,0,40.0,objetivo
+perfume-0365,Sisterland Red,Benetton,949370,,33100,35748,50050,50050,0,40.0,objetivo
+perfume-0366,Sisterland Yellow,Benetton,31081,,33100,35748,50050,50050,0,40.0,objetivo
+perfume-0367,Together,Benetton,920336,,33100,35748,50050,50050,0,40.0,objetivo
+perfume-0368,Together,Benetton,920358,,33100,35748,50050,50050,0,40.0,objetivo
+perfume-0369,United Dreams High,Benetton,744801,,31445,33960,47550,47550,0,40.0,objetivo
+perfume-0370,Momentum Unlimited,Bentley,6599,,92680,100094,140150,140150,0,40.0,objetivo
+perfume-0371,BENTLEY EDT M 100ML,Bentley,6544,,66200,71496,100100,100100,0,40.0,objetivo
+perfume-0372,Azure,Bentley,6623,,59580,64346,90100,90100,0,40.0,objetivo
+perfume-0373,Black,Bentley,903146,,107575,116181,162700,162700,0,40.0,objetivo
+perfume-0374,Hill Wins,Beverly,840304,,24808,26792,37550,37550,0,40.2,objetivo
+perfume-0375,Hills,Beverly,673352,,24808,26792,37550,37550,0,40.2,objetivo
+perfume-0376,Blossom Bouquet,Bharara,22924,,57925,62559,87600,87600,0,40.0,objetivo
+perfume-0377,Chocolate,Bharara,205455,,82750,89370,125150,125150,0,40.0,objetivo
+perfume-0378,Don,Bharara,109829,,71165,76858,107650,107650,0,40.1,objetivo
+perfume-0379,Double Bleu,Bharara,109739,,71165,76858,107650,107650,0,40.1,objetivo
+perfume-0380,Dynamic,Bharara,22935,,57925,62559,87600,87600,0,40.0,objetivo
+perfume-0381,King,Bharara,30855,,95990,103669,145150,145150,0,40.0,objetivo
+perfume-0382,King Gold,Bharara,103632,,82733,89351,125100,125100,0,40.0,objetivo
+perfume-0383,King,Bharara,103586,,87715,94732,132650,132650,0,40.0,objetivo
+perfume-0384,Legend,Bharara,22946,,74475,80433,112650,112650,0,40.1,objetivo
+perfume-0385,Niche,Bharara,109772,,79440,85795,120150,120150,0,40.0,objetivo
+perfume-0386,Niche,Bharara,22957,,130745,141204,197700,197700,0,40.0,objetivo
+perfume-0387,Onyx,Bharara,109807,,95990,103669,145150,145150,0,40.0,objetivo
+perfume-0388,Peace,Bharara,109682,,95990,103669,145150,145150,0,40.0,objetivo
+perfume-0389,Placid,Bharara,109818,,95990,103669,145150,145150,0,40.0,objetivo
+perfume-0390,Prestige,Bharara,22968,,74475,80433,112650,112650,0,40.1,objetivo
+perfume-0391,Queen,Bharara,109794,,59580,64346,90100,90100,0,40.0,objetivo
+perfume-0392,Rohit Azure,Bharara,109985,,38065,41110,57600,57600,0,40.1,objetivo
+perfume-0393,Scarlet,Bharara,109761,,95990,103669,145150,145150,0,40.0,objetivo
+perfume-0394,Viking Beirut,Bharara,103610,,79423,85776,120100,120100,0,40.0,objetivo
+perfume-0395,Viking Cairo,Bharara,30866,,84405,91157,127650,127650,0,40.0,objetivo
+perfume-0396,Viking Dubai,Bharara,22979,,84405,91157,127650,127650,0,40.0,objetivo
+perfume-0397,Viking Kashmir,Bharara,103621,,84405,91157,127650,127650,0,40.0,objetivo
+perfume-0398,Viking Rio,Bharara,103597,,84405,91157,127650,127650,0,40.0,objetivo
+perfume-0399,BI-ES 313 EDP F 100ML,Bi-es,20169,,21515,23236,32550,32550,0,40.1,objetivo
+perfume-0400,For,Bi-es,20371,,21515,23236,32550,32550,0,40.1,objetivo
+perfume-0401,Black Night,Bi-es,20248,,21515,23236,32550,32550,0,40.1,objetivo
+perfume-0402,Blossom Avenue,Bi-es,62434,,24825,26811,37550,37550,0,40.1,objetivo
+perfume-0403,Blossom Garden,Bi-es,62445,,24825,26811,37550,37550,0,40.1,objetivo
+perfume-0404,Blossom Orchid,Bi-es,62412,,24825,26811,37550,37550,0,40.1,objetivo
+perfume-0405,Blossom Roses,Bi-es,62423,,24825,26811,37550,37550,0,40.1,objetivo
+perfume-0406,Casino,Bi-es,20170,,21515,23236,32550,32550,0,40.1,objetivo
+perfume-0407,Diamond Sparkle,Bi-es,20260,,21515,23236,32550,32550,0,40.1,objetivo
+perfume-0408,Ego Platinum,Bi-es,20270,,19860,21448,30050,30050,0,40.1,objetivo
+perfume-0409,Floral,Bi-es,20305,,19860,21448,30050,30050,0,40.1,objetivo
+perfume-0410,Galactic,Bi-es,20158,,19860,21448,30050,30050,0,40.1,objetivo
+perfume-0411,Gold,Bi-es,20180,,21515,23236,32550,32550,0,40.1,objetivo
+perfume-0412,Golden,Bi-es,20259,,21515,23236,32550,32550,0,40.1,objetivo
+perfume-0413,Into The Blue,Bi-es,20360,,21515,23236,32550,32550,0,40.1,objetivo
+perfume-0414,La Vanille,Bi-es,20125,,21515,23236,32550,32550,0,40.1,objetivo
+perfume-0415,Max Ice Freshness,Bi-es,62456,,21515,23236,32550,32550,0,40.1,objetivo
+perfume-0416,Miss Viviane,Bi-es,20215,,23170,25023,35050,35050,0,40.1,objetivo
+perfume-0417,Ok For Everyone,Bi-es,20191,,21515,23236,32550,32550,0,40.1,objetivo
+perfume-0418,Olivia,Bi-es,20350,,19860,21448,30050,30050,0,40.1,objetivo
+perfume-0419,Salt Lake,Bi-es,20147,,21515,23236,32550,32550,0,40.1,objetivo
+perfume-0420,Selfie Girl,Bi-es,20281,,21515,23236,32550,32550,0,40.1,objetivo
+perfume-0421,Tres Belle,Bi-es,20226,,21515,23236,32550,32550,0,40.1,objetivo
+perfume-0422,Tuxedo,Bi-es,20292,,21515,23236,32550,32550,0,40.1,objetivo
+perfume-0423,Victoria,Bi-es,20349,,21515,23236,32550,32550,0,40.1,objetivo
+perfume-0424,Viva la Doce,Bi-es,20327,,23170,25023,35050,35050,0,40.1,objetivo
+perfume-0425,Winner,Bi-es,20338,,21515,23236,32550,32550,0,40.1,objetivo
+perfume-0426,Wish,Bi-es,20136,,23170,25023,35050,35050,0,40.1,objetivo
+perfume-0427,B,Blumarine,934565,,62890,67921,95100,95100,0,40.0,objetivo
+perfume-0428,Rosa,Blumarine,935555,,71165,76858,107650,107650,0,40.1,objetivo
+perfume-0429,Angelic,Boadicea,247854,,1125400,1215432,1701650,1701650,0,40.0,objetivo
+perfume-0430,Aqua Sapphire,Boadicea,243705,,1158500,1251180,1751700,1751700,0,40.0,objetivo
+perfume-0431,Ardent,Boadicea,243716,,521325,563031,788250,788250,0,40.0,objetivo
+perfume-0432,Azrak,Boadicea,247786,,695100,750708,1051000,1051000,0,40.0,objetivo
+perfume-0433,Bodacious,Boadicea,243738,,579250,625590,875850,875850,0,40.0,objetivo
+perfume-0434,Complex,Boadicea,247876,,579250,625590,875850,875850,0,40.0,objetivo
+perfume-0435,Empire,Boadicea,247764,,810950,875826,1226200,1226200,0,40.0,objetivo
+perfume-0436,Energizer,Boadicea,243692,,521325,563031,788250,788250,0,40.0,objetivo
+perfume-0437,Valiant,Boadicea,243727,,1489500,1608660,2252150,2252150,0,40.0,objetivo
+perfume-0438,I Am Celestial,Armaf,217100,,16550,17874,34923,25050,-9873,40.1,objetivo
+perfume-0439,I Am Divine,Armaf,217144,,16550,17874,34923,25050,-9873,40.1,objetivo
+perfume-0440,I Am Eba,Armaf,217076,,16550,17874,34923,25050,-9873,40.1,objetivo
+perfume-0441,I Am Enigma,Armaf,217111,,16550,17874,34923,25050,-9873,40.1,objetivo
+perfume-0442,I Am Fire,Armaf,217098,,16550,17874,34923,25050,-9873,40.1,objetivo
+perfume-0443,I Am Frozen Blossom,Armaf,217122,,16550,17874,34923,25050,-9873,40.1,objetivo
+perfume-0444,I Am Heaven,Armaf,1357196,,25869,27938,34923,39150,4227,40.1,objetivo
+perfume-0445,I Am Kaya,Armaf,217010,,16550,17874,34923,25050,-9873,40.1,objetivo
+perfume-0446,I Am Legacy,Armaf,217043,,16550,17874,34923,25050,-9873,40.1,objetivo
+perfume-0447,I Am Lyna,Armaf,217021,,16550,17874,34923,25050,-9873,40.1,objetivo
+perfume-0448,I Am Magic,Armaf,217065,,16550,17874,34923,25050,-9873,40.1,objetivo
+perfume-0449,I Am Selfless,Armaf,217087,,16550,17874,34923,25050,-9873,40.1,objetivo
+perfume-0450,I Am Velvet Mirage,Armaf,217032,,16550,17874,34923,25050,-9873,40.1,objetivo
+perfume-0451,I Of The W.,Armaf,1357158,,25869,27938,34923,39150,4227,40.1,objetivo
+perfume-0452,Yara,Lattafa,207782,,16550,17874,22918,25050,2132,40.1,objetivo
+perfume-0453,Alive Now,Maison Alhambra,1295658,,21018,22699,28374,31800,3426,40.1,objetivo
+perfume-0454,Bad Pour,Maison Alhambra,1375428,,21018,22699,28374,31800,3426,40.1,objetivo
+perfume-0455,Chants,Maison Alhambra,1295665,,21018,22699,28374,31800,3426,40.1,objetivo
+perfume-0456,Delilah Pour,Maison Alhambra,1295672,,21018,22699,28374,31800,3426,40.1,objetivo
+perfume-0457,Desirable Addict,Maison Alhambra,1295689,,21018,22699,28374,31800,3426,40.1,objetivo
+perfume-0458,Intrude,Maison Alhambra,1295696,,21018,22699,28374,31800,3426,40.1,objetivo
+perfume-0459,La Vivacite,Maison Alhambra,1375442,,21018,22699,28374,31800,3426,40.1,objetivo
+perfume-0460,Love Spark,Maison Alhambra,1295719,,21018,22699,28374,31800,3426,40.1,objetivo
+perfume-0461,Opera Noir,Maison Alhambra,1295726,,21018,22699,28374,31800,3426,40.1,objetivo
+perfume-0462,Opera Rouge,Maison Alhambra,1295733,,21018,22699,28374,31800,3426,40.1,objetivo
+perfume-0463,Pink Eclipse,Maison Alhambra,1295740,,21018,22699,28374,31800,3426,40.1,objetivo
+perfume-0464,Pink Shimmer Secret,Maison Alhambra,1295641,,21018,22699,28374,31800,3426,40.1,objetivo
+perfume-0465,Amber Aperitif,Victoria's Secret,1359817,,28698,30993,38742,43400,4658,40.0,objetivo
+perfume-0466,Amber Romance,Victoria's Secret,1181630,,28698,30993,38742,43400,4658,40.0,objetivo
+perfume-0467,Aqua Kiss,Victoria's Secret,1212945,,28698,30993,38742,43400,4658,40.0,objetivo
+perfume-0468,Bare Vanilla Vacation,Victoria's Secret,1362336,,30719,33176,41471,46450,4979,40.0,objetivo
+perfume-0469,Canyon Blooms,Victoria's Secret,1362374,,29102,31430,39288,44050,4762,40.2,objetivo
+perfume-0470,Coastal Blooms,Victoria's Secret,1362381,,28294,30557,38197,42800,4603,40.1,objetivo
+perfume-0471,Coconut Passion,Victoria's Secret,984469,,23170,25023,38197,35050,-3147,40.1,objetivo
+perfume-0472,Electric Mango,Victoria's Secret,1326741,,28294,30557,38197,42800,4603,40.1,objetivo
+perfume-0473,Eletric Mango,Victoria's Secret,1359763,,28698,30993,38742,43400,4658,40.0,objetivo
+perfume-0474,Festive Fizz,Victoria's Secret,1334470,,28294,30557,38197,42800,4603,40.1,objetivo
+perfume-0475,Love Spell,Victoria's Secret,1150674,,29102,31430,39288,44050,4762,40.2,objetivo
+perfume-0476,Love Spell Brulee,Victoria's Secret,1301199,,28294,30557,38197,42800,4603,40.1,objetivo
+perfume-0477,Love Spell Shimmer,Victoria's Secret,1226409,,29102,31430,39288,44050,4762,40.2,objetivo
+perfume-0478,Love Spell Vacation,Victoria's Secret,1362343,,29102,31430,39288,44050,4762,40.2,objetivo
+perfume-0479,Mango Temptation,Victoria's Secret,1359770,,28698,30993,38742,43400,4658,40.0,objetivo
+perfume-0480,Midnight Bloom,Victoria's Secret,1212952,,28294,30557,38197,42800,4603,40.1,objetivo
+perfume-0481,Neon Tropic,Victoria's Secret,1325102,,28294,30557,38197,42800,4603,40.1,objetivo
+perfume-0482,Pear Glace,Victoria's Secret,1360509,,28698,30993,38742,43400,4658,40.0,objetivo
+perfume-0483,Pure Seduction Sol,Victoria's Secret,1326789,,30719,33176,41471,46450,4979,40.0,objetivo
+perfume-0484,Serene Blooms,Victoria's Secret,1362398,,28294,30557,38197,42800,4603,40.1,objetivo
+perfume-0485,Sizzling Vanilla,Victoria's Secret,1325119,,28698,30993,38742,43400,4658,40.0,objetivo
+perfume-0486,Sugared Petals,Victoria's Secret,1359794,,28698,30993,38742,43400,4658,40.0,objetivo
+perfume-0487,Sundrenched Blooms,Victoria's Secret,1362404,,28294,30557,38197,42800,4603,40.1,objetivo
+perfume-0488,Vanilla Amber Bourbon,Victoria's Secret,1388978,,28698,30993,38742,43400,4658,40.0,objetivo
+perfume-0489,Vanilla Lace,Victoria's Secret,1301311,,28294,30557,38197,42800,4603,40.1,objetivo
+perfume-0490,Vanilla Lace Archives Collection,Victoria's Secret,1374650,,28698,30993,38742,43400,4658,40.0,objetivo
+perfume-0491,Velvet Petals,Victoria's Secret,984537,,23170,25023,39288,35050,-4238,40.1,objetivo
+perfume-0492,Wild Neroli,Victoria's Secret,1326734,,28294,30557,38197,42800,4603,40.1,objetivo
+perfume-0493,Club,Bogart,770249,,39720,42897,60100,60100,0,40.1,objetivo
+perfume-0494,Club Vip,Bogart,911694,,38048,41091,57550,57550,0,40.1,objetivo
+perfume-0495,One Man Show,Bogart,143490,,29790,32173,45050,45050,0,40.0,objetivo
+perfume-0496,One Man Show Mas,Bogart,616518,,23170,25023,35050,35050,0,40.1,objetivo
+perfume-0497,Pour **002074,Bogart,104027,,49650,53622,75100,75100,0,40.1,objetivo
+perfume-0498,Santana Bay,Bogart,911707,,49650,53622,75100,75100,0,40.1,objetivo
+perfume-0499,Silver Aqua,Bogart,64065,,57925,62559,87600,87600,0,40.0,objetivo
+perfume-0500,Silver Infinit,Bogart,980500,,43030,46472,65100,65100,0,40.1,objetivo
+perfume-0501,Silver Intense,Bogart,15533,,8275,8937,12550,12550,0,40.4,objetivo
+perfume-0502,Silver Intense,Bogart,121408,,36410,39322,55100,55100,0,40.1,objetivo
+perfume-0503,Silver Midnight,Bogart,822673,,59580,64346,90100,90100,0,40.0,objetivo
+perfume-0504,Silver Pure,Bogart,903438,,59580,64346,90100,90100,0,40.0,objetivo
+perfume-0505,Silver Scent,Bogart,15511,,9930,10724,15050,15050,0,40.3,objetivo
+perfume-0506,Silver Scent Deep,Bogart,717597,,39720,42897,60100,60100,0,40.1,objetivo
+perfume-0507,Silver Scent,Bogart,12091,,26463,28580,40050,40050,0,40.1,objetivo
+perfume-0508,N.9 Bleecker Street,Bond,997811,,728200,786456,1101050,1101050,0,40.0,objetivo
+perfume-0509,N.9 Central Park,Bond,987955,,521325,563031,788250,788250,0,40.0,objetivo
+perfume-0510,N.9 Chez,Bond,987966,,496500,536220,750750,750750,0,40.0,objetivo
+perfume-0511,N.9 Chinatown,Bond,987977,,529600,571968,800800,800800,0,40.0,objetivo
+perfume-0512,N.9 Gold Coast,Bond,987988,,595800,643464,900850,900850,0,40.0,objetivo
+perfume-0513,N.9 Hamptons,Bond,997877,,579250,625590,875850,875850,0,40.0,objetivo
+perfume-0514,N.9 Madison Avenue,Bond,987999,,595800,643464,900850,900850,0,40.0,objetivo
+perfume-0515,N.9 New York Nights,Bond,997923,,612350,661338,925900,925900,0,40.0,objetivo
+perfume-0516,N.9 Nuits Noho,Bond,997912,,546150,589842,825800,825800,0,40.0,objetivo
+perfume-0517,N.9 Perfumista Avenue,Bond,988003,,479950,518346,725700,725700,0,40.0,objetivo
+perfume-0518,N.9 Scent Of Peace,Bond,997934,,579250,625590,875850,875850,0,40.0,objetivo
+perfume-0519,N.9 Spring Fling,Bond,988014,,562700,607716,850850,850850,0,40.0,objetivo
+perfume-0520,N.9 Tribeca,Bond,997956,,761300,822204,1151100,1151100,0,40.0,objetivo
+perfume-0521,N.9 Wall Street,Bond,988025,,562700,607716,850850,850850,0,40.0,objetivo
+perfume-0522,Dirty Heaven,Borntostandout,214602,,347550,375354,525500,525500,0,40.0,objetivo
+perfume-0523,Dirty Rice,Borntostandout,214680,,296228,319926,447900,447900,0,40.0,objetivo
+perfume-0524,Drunk Maple,Borntostandout,214646,,296228,319926,447900,447900,0,40.0,objetivo
+perfume-0525,Fig Porn,Borntostandout,214657,,347550,375354,525500,525500,0,40.0,objetivo
+perfume-0526,Indecent Cherry,Borntostandout,214624,,347550,375354,525500,525500,0,40.0,objetivo
+perfume-0527,L'animal,Borntostandout,214668,,296228,319926,447900,447900,0,40.0,objetivo
+perfume-0528,Naked Laundry,Borntostandout,214613,,296228,319926,447900,447900,0,40.0,objetivo
+perfume-0529,Sin & Pleasure,Borntostandout,214679,,347550,375354,525500,525500,0,40.0,objetivo
+perfume-0530,Sugar Addict,Borntostandout,214635,,347550,375354,525500,525500,0,40.0,objetivo
+perfume-0531,Essence A.,Bottega,882152,,173775,187677,262750,262750,0,40.0,objetivo
+perfume-0532,Illusione,Bottega,967303,,173775,187677,262750,262750,0,40.0,objetivo
+perfume-0533,Pour,Bottega,882141,,148950,160866,225250,225250,0,40.0,objetivo
+perfume-0534,BOUCHERON EDP F 100ML,Boucheron,867717,,99300,107244,150150,150150,0,40.0,objetivo
+perfume-0535,BOUCHERON EDP M 100ML,Boucheron,748871,,74475,80433,112650,112650,0,40.1,objetivo
+perfume-0536,BOUCHERON EDT F 100ML,Boucheron,171244,,91025,98307,137650,137650,0,40.0,objetivo
+perfume-0537,BOUCHERON EDT M 100ML,Boucheron,70635,,52960,57196,80100,80100,0,40.0,objetivo
+perfume-0538,Feve Tonka de Canaima,Boucheron,16387,,248250,268110,375400,375400,0,40.0,objetivo
+perfume-0539,Fleurs,Boucheron,988686,,92680,100094,140150,140150,0,40.0,objetivo
+perfume-0540,Iris de Syracuse,Boucheron,16398,,248250,268110,375400,375400,0,40.0,objetivo
+perfume-0541,Jaipur Bouquet,Boucheron,2428,,91025,98307,137650,137650,0,40.0,objetivo
+perfume-0542,Jaipur,Boucheron,43960,,62890,67921,95100,95100,0,40.0,objetivo
+perfume-0543,Oud de Carthage,Boucheron,16411,,248250,268110,375400,375400,0,40.0,objetivo
+perfume-0544,Patchouli Angkor,Boucheron,16422,,248250,268110,375400,375400,0,40.0,objetivo
+perfume-0545,Place Vendome,Boucheron,689752,,66200,71496,100100,100100,0,40.0,objetivo
+perfume-0546,Quatre Absolu Nuit,Boucheron,815260,,81095,87582,122650,122650,0,40.0,objetivo
+perfume-0547,Quatre,Boucheron,726665,,69510,75070,105100,105100,0,40.0,objetivo
+perfume-0548,Quatre En Bleu,Boucheron,18907,,99300,107244,150150,150150,0,40.0,objetivo
+perfume-0549,Quatre Iconic,Boucheron,6432,,99300,107244,150150,150150,0,40.0,objetivo
+perfume-0550,Quatre Intense,Boucheron,768403,,117505,126905,177700,177700,0,40.0,objetivo
+perfume-0551,Rose Isparta,Boucheron,16433,,248250,268110,375400,375400,0,40.0,objetivo
+perfume-0552,Singulier,Boucheron,43971,,97645,105456,147650,147650,0,40.0,objetivo
+perfume-0553,Eme,Boulevard,13654,,36410,39322,55100,55100,0,40.1,objetivo
+perfume-0554,Baron Haussmann,Boulevard,31867,,36410,39322,55100,55100,0,40.1,objetivo
+perfume-0555,Champ Mars,Boulevard,13711,,36410,39322,55100,55100,0,40.1,objetivo
+perfume-0556,Haussmann,Boulevard,13687,,36410,39322,55100,55100,0,40.1,objetivo
+perfume-0557,Jour & Nuit,Boulevard,13722,,36410,39322,55100,55100,0,40.1,objetivo
+perfume-0558,Montmartre 10oml,Boulevard,13700,,36410,39322,55100,55100,0,40.1,objetivo
+perfume-0559,Notre Dame,Boulevard,13665,,36410,39322,55100,55100,0,40.1,objetivo
+perfume-0560,Palais Royal,Boulevard,13698,,36410,39322,55100,55100,0,40.1,objetivo
+perfume-0561,Pont Marie,Boulevard,13676,,36410,39322,55100,55100,0,40.1,objetivo
+perfume-0562,Port Royal,Boulevard,121665,,36410,39322,55100,55100,0,40.1,objetivo
+perfume-0563,Voltaire,Boulevard,31890,,36410,39322,55100,55100,0,40.1,objetivo
+perfume-0564,Colections #138 Love Love,Brand,870575,,7448,8043,11300,11300,0,40.5,objetivo
+perfume-0565,Collections #161 Bvlg Come Black,Brand,58270,,7448,8043,11300,11300,0,40.5,objetivo
+perfume-0566,Collections #240 Classic Girl,Brand,58371,,7448,8043,11300,11300,0,40.5,objetivo
+perfume-0567,Collections #402 Grama Pura,Brand,58440,,7448,8043,11300,11300,0,40.5,objetivo
+perfume-0568,Khamrah,Lattafa,43444,185000,33100,35748,44680,50050,5370,40.0,ok
+perfume-0569,Khamrah Qahwa,Lattafa,68339,,33100,35748,44680,50050,5370,40.0,objetivo
+perfume-0570,Yara,Lattafa,26243,,36410,39322,55850,55100,-750,40.1,objetivo
+perfume-0571,Asad,Lattafa,26300,,38065,41110,53616,57600,3984,40.1,objetivo
+perfume-0572,Oud Mood,Lattafa,23027,,19860,21448,26808,30050,3242,40.1,objetivo
+perfume-0573,Velvet Oud,Lattafa,15779,,19860,21448,26808,30050,3242,40.1,objetivo
+perfume-0574,Qaed Al Fursan,Lattafa,43321,,23170,25023,31276,35050,3774,40.1,objetivo
+perfume-0575,Amber Oud Gold Edition,Al Haramain,2350,,72820,78645,98296,110150,11854,40.1,objetivo
+perfume-0576,L'Aventure Knight,Al Haramain,847489,,49650,53622,67020,75100,8080,40.1,objetivo
+perfume-0577,9PM,Afnan,971981,,38065,41110,51382,57600,6218,40.1,objetivo
+perfume-0578,Hawas,Rasasi,107490,61000,36410,39322,49148,55100,5952,40.1,ok
+perfume-0579,Club de Nuit Intense Man,Armaf,254538,130000,79440,85795,107232,120150,12918,40.0,ok
+perfume-0580,Club de Nuit Untold,Armaf,23464,,54615,58984,73722,82600,8878,40.0,objetivo
+perfume-0581,Club de Nuit Sillage,Armaf,943295,,49650,53622,67020,75100,8080,40.1,objetivo
+perfume-0582,Sauvage,Dior,886986,,178740,193039,241272,270300,29028,40.0,objetivo
+perfume-0583,Y Le Parfum,Yves Saint Laurent,60937,370000,201910,218062,272548,305300,32752,40.0,ok
+perfume-0584,MYSLF,Yves Saint Laurent,56640,335000,178740,193039,241272,270300,29028,40.0,ok
+perfume-0585,Libre,Yves Saint Laurent,920279,299000,178740,193039,256910,270300,13390,40.0,ok
+perfume-0586,Black Opium,Yves Saint Laurent,714493,226065,178740,193039,245740,241300,-4440,25.0,proteg
+perfume-0587,Good Girl,Carolina Herrera,887381,219000,142330,153716,192124,212450,20326,38.2,cap
+perfume-0588,Eros,Versace,882556,,115850,125118,156380,175200,18820,40.0,objetivo
+perfume-0589,Dylan Blue,Versace,889653,,79423,85776,107210,120100,12890,40.0,objetivo
+perfume-0590,1 Million,Paco Rabanne,905686,,92680,100094,125104,140150,15046,40.0,objetivo
+perfume-0591,Le Male Elixir,Jean Paul Gaultier,45187,,162190,175165,218932,245250,26318,40.0,objetivo
+perfume-0592,Man in Black,Bvlgari,897742,,157225,169803,212230,237750,25520,40.0,objetivo
+perfume-0593,The One,Dolce & Gabbana,705774,,102610,110818,138508,155150,16642,40.0,objetivo
+perfume-0594,Invictus,Paco Rabanne,205029,,16550,17874,14895,25050,10155,40.1,objetivo
+perfume-0595,Sauvage,Dior,886336,300000,148950,160866,148950,225250,76300,40.0,ok
+perfume-0596,Sauvage,Dior,734440,,135710,146566,135710,205200,69490,40.0,objetivo
+perfume-0597,9PM Night Out,Afnan,235862,,69510,75070,69510,105100,35590,40.0,objetivo
+perfume-0598,9PM,Afnan,216288,,52960,57196,52960,80100,27140,40.0,objetivo
+perfume-0599,9PM Elixir,Afnan,209640,,49650,53622,49650,75100,25450,40.1,objetivo
+perfume-0600,Just Lychee,Fragrance World,97936,,28135,30385,28135,42550,14415,40.0,objetivo
+perfume-0601,Fierte,Fragrance World,199210,,62890,67921,62890,95100,32210,40.0,objetivo
+perfume-0602,Meringue,French Avenue,200518,,46340,50047,50929,70100,19171,40.1,objetivo
+perfume-0603,Libre Le Parfum,Yves Saint Laurent,60948,,208530,225212,208530,315300,106770,40.0,objetivo
+perfume-0604,Libre Flowers & Flames,Yves Saint Laurent,204465,299000,191980,207338,191980,290050,98070,39.9,cap
+perfume-0605,Libre EDP Intense,Yves Saint Laurent,60960,300000,155570,168015,155570,235250,79680,40.0,ok
+perfume-0606,J'adore,Dior,905508,460000,168810,182314,168810,255250,86440,40.0,ok
+perfume-0607,J'adore,Dior,900940,,162190,175165,162190,245250,83060,40.0,objetivo
+perfume-0608,Good Girl Jasmine Absolute,Carolina Herrera,251254,,135710,146566,135710,205200,69490,40.0,objetivo
+perfume-0609,Good Girl Very,Carolina Herrera,252648,,139020,150141,139020,210200,71180,40.0,objetivo
+perfume-0610,La Bomba,Carolina Herrera,220597,,158880,171590,157560,240250,82690,40.0,objetivo
